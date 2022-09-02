@@ -4,9 +4,9 @@
     <h1>And now&hellip;the weather.</h1>
     <h3>Weather nerd links (⌐⊙_⊙)</h3>
     <ul>
-      <!-- <li><a href="xxxxx" target="_blank" rel="noopener">xxxxx</a></li> -->
-      <li><a href="https://www.mynews13.com/fl/orlando/weather/radar" target="_blank" rel="noopener">Radar (Central Florida)</a></li>
-      <li><a href="http://spaghettimodels.com/" target="_blank" rel="noopener">Hurricanes!!!</a></li>
+      <!-- <li><a href="xxxxx" rel="noopener">xxxxx</a></li> -->
+      <li><a href="https://www.mynews13.com/fl/orlando/weather/radar" rel="noopener">Radar (Central Florida)</a></li>
+      <li><a href="http://spaghettimodels.com/" rel="noopener">Hurricanes!!!</a></li>
     </ul>
   </div>
 </template>
