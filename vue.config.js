@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'wds_links'
+  publicPath: '/wds_links/'
 }
