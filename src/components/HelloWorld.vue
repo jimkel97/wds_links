@@ -31,6 +31,7 @@
       <li><a href="https://getwaves.io/" rel="noopener">SVG wave generator</a></li>
       <li><a href="https://shadows.brumm.af/" rel="noopener">Smooth shadows</a></li>
       <li><a href="https://bennettfeely.com/clippy/" rel="noopener">CSS clip-path maker</a></li>
+      <li><a href="https://9elements.github.io/fancy-border-radius/" rel="noopener">Fancy Border Radius</a></li>
       <li><a href="https://type-scale.com/" rel="noopener">Visual type scale</a></li>
       <li><a href="https://animista.net/" rel="noopener">CSS animation generator</a></li>
       <li><a href="https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers" rel="noopener">Interactive Learning Tools</a></li>
