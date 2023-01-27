@@ -8,7 +8,7 @@
       <li><a href="https://flvsprd.service-now.com/navpage.do" rel="noopener">ServiceNow</a></li>
       <li><a href="https://dev.azure.com/flvs/cs/_git/" rel="noopener">Azure Dev Ops</a></li>
       <li><a href="https://tinypng.com/" rel="noopener">TinyPNG</a></li>
-      <li><a href="http://app64.fvs.fvsonline.net:8085/currentActivity.action" rel="noopener">Bamboo</a></li>
+      <li><a href="https://bamboo.flvs.net:8443/currentActivity.action" rel="noopener">Bamboo</a></li>
       <li><a href="https://develop.flvs.net/collaborate/Course/resourse_site2/index.html" rel="noopener">Resource Center</a></li>
       <li><a href="http://develop.flvs.net/Collaborate/Course/framework/4.0-presentation/index.htm" rel="noopener">FW4.0 Cheatsheet</a></li>
     </ul>
